@@ -6,7 +6,7 @@
   "editor.formatOnPaste": false,
   "editor.minimap.enabled": true,
   "editor.fontLigatures": true,
-  "explorer.openEditors.visible": 0,
+  "explorer.openEditors.visible": 1,
   "emmet.showAbbreviationSuggestions": false,
 
   "workbench.startupEditor": "newUntitledFile",
@@ -41,7 +41,7 @@
   "[vue]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
-  "workbench.colorTheme": "Material Theme Darker High Contrast",
+  "workbench.colorTheme": "Visual Studio Dark",
   "[jsonc]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
